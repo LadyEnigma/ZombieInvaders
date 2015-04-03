@@ -1,0 +1,13 @@
+Project Space Invaders Notes
+
+Created the project with 2D settings and set up version control with bitbucket and sourcetree
+
+Used Kenneys Top Down Tanks Sprites
+
+Used SpriteAttacks TopDown Extras and TopDown Zombies
+
+https://drive.google.com/folderview?id=0B8QJyudwHMThRDdJb012UF8wN1k&usp=sharing
+
+https://googledrive.com/host/0B8QJyudwHMThRDdJb012UF8wN1k/MeatlyJamWeb.html
+
+http://googledrive.com/host/0B8QJyudwHMThRDdJb012UF8wN1k/MeatlyJamWeb.html
